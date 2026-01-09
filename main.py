@@ -76,6 +76,9 @@ if search_button:
             # display an error message if there is an exception
             st.toast(f"API Provider is not available. Check API key.:{e}")
             updated_agent = None
+    
+    if updated_agent is None:
+        st.toast("API Provider is not available.")
 
     # display the search results
     for i, step in enumerate(updated_agent.memory.steps):
