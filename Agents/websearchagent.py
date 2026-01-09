@@ -67,7 +67,7 @@ class SearchAgent:
             self.model_name="groq/llama3-8b-8192"
             api_key = os.getenv("GROQ_API_KEY")
         elif host =="xai":
-            self.model_name="xai/grok-2-latest"
+            self.model_name="xai/grok-4-latest"
             api_key = os.getenv("XAI_API_KEY")
         elif host=="cerebras":
             self.model_name="cerebras/llama-3.3-70b"
