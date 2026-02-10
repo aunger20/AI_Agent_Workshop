@@ -10,3 +10,5 @@ Reflections | Projections @ UIUC 09/17/2025 [Slide](https://docs.google.com/pres
 AITR ACM, India [slide](https://docs.google.com/presentation/d/1vs7yEVKoZJEKCruPeZCbxUF3ATb39n5qQ-allWztdTo/edit?usp=sharing)
 
 RAIT ACM SIGAI, India,  Jan 10, 2026 [Slide](https://docs.google.com/presentation/d/1nmOyJCjvAPVAUTNmAvJPKOtps9XQF-v3aoSeS6PXxd0/edit?usp=sharing)
+
+Dnyaan Prasad Global University (DPGU), Pune, India, Feb 9, 2026 [Slide](https://docs.google.com/presentation/d/13ND-Apu8l6T-wUyB8azYykCVs6VBIP9Gr-TDFxp0IcI/edit?usp=sharing).
